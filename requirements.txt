@@ -1,3 +1,6 @@
 flake8
 pytest
 speech_recognition
+pyttsx3
+requests
+google-generativeai
